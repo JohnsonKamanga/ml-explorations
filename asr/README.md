@@ -1,0 +1,3 @@
+### Introduction
+
+I have always had a slight interest in the idea of automatic speech recognition. Funny enough, this interest dates back to a project idea that I had back in 2018. In essence, the idea was to somehow allow able bodied people to communicate with deaf people. Anyway, in this notebook, my goal is simply to compare and contrast the performance differences between various ASR based models.
